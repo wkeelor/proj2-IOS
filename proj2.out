@@ -1,0 +1,20 @@
+1: H 5: started
+2: H 4: started
+3: H 3: started
+4: O 1: started
+5: H 2: started
+6: O 2: started
+7: H 1: started
+8: O 1: going to queue
+9: H 4: going to queue
+10: H 2: going to queue
+11: H 5: going to queue
+12: H 3: going to queue
+13: O 2: going to queue
+14: H 1: going to queue
+15: O 1: creating molecule 1
+16: H 2: creating molecule 1
+17: H 4: creating molecule 1
+18: O 1: molecule 1 created
+19: H 2: molecule 1 created
+20: H 4: molecule 1 created
